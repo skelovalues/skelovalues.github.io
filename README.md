@@ -1,2 +1,2 @@
-# 8values.github.io
-The 8values Political Quiz measures individuals' political values, including Equality, Nation, Liberty, Tradition, Markets, World, Authority, and Progress.
+# skeloValues.github.io
+SkeloValues -- несерйозна адаптація тесту [8values](https://8values.github.io) до скелелазіння. Проєкт має суто розважальну мету.
